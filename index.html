@@ -1,0 +1,1417 @@
+
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Gran Bar - Menu</title>
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <style>
+          body { font-family: 'PT Sans', sans-serif; background-color: #FEF9F4; }
+          :root {
+            --primary: #c05621;
+            --primary-10: rgba(192, 86, 33, 0.1);
+          }
+          .font-headline { font-family: 'PT Sans', sans-serif; }
+          .text-primary { color: var(--primary); }
+          .tab-trigger {
+            padding: 0.5rem 1rem;
+            font-size: 1.125rem;
+            font-family: 'PT Sans', sans-serif;
+            border-radius: 0.375rem;
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            color: #403631;
+          }
+          .tab-trigger.active {
+            background-color: var(--primary-10);
+            color: var(--primary);
+          }
+          .tab-content { display: none; }
+          .tab-content.active { display: block; }
+          .font-semibold { font-weight: 600; }
+          .text-sm { font-size: 0.875rem; }
+          .text-gray-600 { color: #4B5563; }
+          .grid { display: grid; }
+          .grid-cols-1 { grid-template-columns: repeat(1, minmax(0, 1fr)); }
+          .md\:grid-cols-2 {
+             @media (min-width: 768px) {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+             }
+          }
+          .gap-x-8 { column-gap: 2rem; }
+          .gap-y-4 { row-gap: 1rem; }
+          .justify-between { justify-content: space-between; }
+          .items-baseline { align-items: baseline; }
+          .flex { display: flex; }
+          .flex-grow { flex-grow: 1; }
+          .border-b { border-bottom-width: 1px; }
+          .border-dashed { border-style: dashed; }
+          .border-gray-400\/50 { border-color: rgba(156, 163, 175, 0.5); }
+          .mx-2 { margin-left: 0.5rem; margin-right: 0.5rem; }
+          hr { border-top-width: 1px; }
+          .my-6 { margin-top: 1.5rem; margin-bottom: 1.5rem; }
+          .border-gray-300 { border-color: #D1D5DB; }
+          .font-headline { font-family: 'PT Sans', sans-serif; }
+          .text-xl { font-size: 1.25rem; }
+          .mb-4 { margin-bottom: 1rem; }
+          .space-y-6 > * + * { margin-top: 1.5rem; }
+        </style>
+      </head>
+      <body class="p-4 sm:p-6 lg:p-8">
+        <div class="max-w-7xl mx-auto">
+          <div class="text-center">
+             <h1 class="font-headline text-5xl tracking-tight">Gran Bar</h1>
+          </div>
+          <div class="flex flex-col items-center mt-8">
+            <div class="flex flex-wrap justify-center w-full gap-2 p-2 bg-transparent">
+              <button class="tab-trigger active" data-target="cocktail">Cocktail</button><button class="tab-trigger " data-target="spumante">Spumante</button><button class="tab-trigger " data-target="vino-bianco">Vino Bianco</button><button class="tab-trigger " data-target="vino-rosso">Vino Rosso</button><button class="tab-trigger " data-target="birra-chiara">Birra Chiara</button><button class="tab-trigger " data-target="bibite">Bibite</button><button class="tab-trigger " data-target="acqua-frizzante">Acqua Frizzante</button><button class="tab-trigger " data-target="amaro">Amaro</button><button class="tab-trigger " data-target="birra-analcolica">Birra Analcolica</button><button class="tab-trigger " data-target="birra-chiara-alla-spina">Birra Chiara alla Spina</button><button class="tab-trigger " data-target="brandy">Brandy</button><button class="tab-trigger " data-target="caffetteria">Caffetteria</button><button class="tab-trigger " data-target="grappa">Grappa</button><button class="tab-trigger " data-target="liquore">Liquore</button><button class="tab-trigger " data-target="rum">Rum</button><button class="tab-trigger " data-target="spumante-rosé">Spumante Rosé</button><button class="tab-trigger " data-target="vino-rosato">Vino Rosato</button><button class="tab-trigger " data-target="vodka">Vodka</button><button class="tab-trigger " data-target="whisky">Whisky</button>
+            </div>
+            <hr class="w-full my-6"/>
+            <div class="w-full max-w-4xl">
+              <div class="tab-content active" id="cocktail">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Gin Lemon</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                <p class="text-sm text-gray-600">TANQUERAY LONDON DRY, BIB LEMONSODA SLEEK</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Gin Tonic - Premium</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€8.50</p>
+                </div>
+                <p class="text-sm text-gray-600">N°3 LONDON DRY GIN, BIB KINLEY TONIC WATER</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Gin Tonic - Standard</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.50</p>
+                </div>
+                <p class="text-sm text-gray-600">TANQUERAY LONDON DRY, BIB KINLEY TONIC WATER</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Hugo Spritz </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">Menta fresca, GIFFARD SCIROPPO FIORE DI SAMBUCO, CT Prosecco DOC Brut Rosé, ACQ S.BENEDETTO FB GAS</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Mojito </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€7.00</p>
+                </div>
+                <p class="text-sm text-gray-600">BARCELO BLANCO 37,5 GR, Lime, Zucchero di canna, Menta fresca, ACQ S.BENED. FB ECOGREEN NAT</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Moscow Mule</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">ARTIC BIANCA, Succo di limone fresco, BIB FEVER TREE GINGER BEER</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Negroni</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">TANQUERAY LONDON DRY, CAMPARI BITTER, Martini Rosso Vermouth</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Rum e Coca-Cola Dorado</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                <p class="text-sm text-gray-600">BARCELO' DORADO 3YO, Coca‑Cola</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Rum e Coca-Cola Organic </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                <p class="text-sm text-gray-600">BARCELO' ORGANIC RUM, Coca‑Cola</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Rum e Cola Blanco</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">BARCELO BLANCO 37,5 GR, Coca‑Cola</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Sbagliato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">4 VALLI STARLIGHT SPUMANTE BRUT, CAMPARI BITTER, Martini Rosso Vermouth</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Spritz</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                <p class="text-sm text-gray-600">SM "Degagé" Spumante VS Extra Dry, APEROL BARBIERI, ACQ S.BENEDETTO FB GAS</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Spritz Campari</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                <p class="text-sm text-gray-600">SM "Degagé" Spumante VS Extra Dry, CAMPARI BITTER, ACQ S.BENEDETTO FB GAS</p>
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="spumante">
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Al Bicchiere / Spina</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">4 VALLI STARLIGHT SPUMANTE BRUT (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ARIONE CONTESSA MOSCATO SPUMANTE (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CERBIO BLANC DE BLANCS EXTRA DRY (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CT Prosecco DOC Extra Dry Spumante (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FOLLADOR RUNIER PROS TV DOC EXTRA DRY (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SM "Degagé" Spumante VS Extra Dry (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        <hr class="my-6 border-gray-300" />
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Bottiglie</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ARIONE CONTESSA MOSCATO SPUMANTE (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€16.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ASCENDUM TRENTO DOC BRUT (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€42.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BELLEI CUVEE BRUT METODO CLASSICO (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€35.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50 %vol (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€44.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50%vol (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€44.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CONTADI SATEN 0,75L SC1X62021 FRANCIACORTA BRUT SATEN 12,50%vol (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€55.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CT Prosecco DOC Extra Dry Spumante (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€18.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FOLLADOR RUNIER PROS TV DOC EXTRA DRY (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€20.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SM "Degagé" Spumante VS Extra Dry (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€16.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="vino-bianco">
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Al Bicchiere / Spina</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">AUDARYA VERMENTINO DI SARDEGNA DOC (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BALIA DI ZOLA ALBANA SECCO ISOLA (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CA RUGATE S. MICHELE SOAVE DOC (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CAVALLARO VERDICCHIO CLAS SUPERIORE (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FT MONTELVINI VERD'ORO VIVO (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        <hr class="my-6 border-gray-300" />
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Bottiglie</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">AUDARYA VERMENTINO DI SARDEGNA DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€18.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BALIA DI ZOLA ALBANA SECCO ISOLA (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€23.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CA RUGATE S. MICHELE SOAVE DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€16.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CAVALLARO VERDICCHIO CLAS SUPERIORE (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€22.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CONTADI CURTEFRANCA DOC BIANCOO, 75L SC1X6 2024 CURTEFRANCA DOC BIANCO 11,50 %vol (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€24.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KT Gewürztraminer Alto Adige DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€38.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KT Sauvignon Alto Adige DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€37.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">RIBOLLA GIALLA LVZ (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€31.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€26.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="vino-rosso">
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Al Bicchiere / Spina</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BALIA ZOLA SANGIOV. BALITORE (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CERASUOLO D'ABRUZZO BIO PMM (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MONTEPULCIANO D'ABRUZZO BIO PMM (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SYRAH BIO DSS (15cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        <hr class="my-6 border-gray-300" />
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Bottiglie</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">AICHHOLZ PINOT NERO ALTO ADIGE DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€28.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BALIA ZOLA SANGIOV. BALITORE (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€19.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CERASUOLO D'ABRUZZO BIO PMM (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€19.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KT Lagrein Alto Adige DOC (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€29.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MONTEPULCIANO D'ABRUZZO BIO PMM (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€20.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SYRAH BIO DSS (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€21.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="birra-chiara">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA BEAVERTOWN GAMMA RAY LATT (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA BEAVERTOWN NECK OIL LATT (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA BECK'S (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA CERES STRONG ALE (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA CORONA (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA HEINEKEN (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA ICHNUSA (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA ICHNUSA NON FILTRATA (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA PAULANER HEFE WEIZEN (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.50</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="bibite">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CAMPARI SODA </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">COCA COLA SLEEK</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Coca‑Cola</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CRODINO</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ENERGY DRINK RED BULL RED ED</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FANTA ARANCIA. SLEEK</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FEVER TREE GINGER BEER</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FEVER TREE GINGER BEER </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">FEVER TREE MEDITERRANEAN TONIC </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">GALVANINA ARANCIATA BIO</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">GALVANINA CEDRATA BIO</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">GALVANINA CHINOTTO BIO</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">GALVANINA CHINOTTO BIO </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KINLEY BITTER LEMON </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KINLEY TONIC WATER</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">KINLEY TONIC WATER (Copy)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">LEMONSODA SLEEK </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SAN BITTER ROSSO</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">SEVEN UP SLEEK </h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">THE ESTATHE LIMONE</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">THE ESTATHE LIMONE (Brik)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">THE ESTATHE PESCA</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">THE ESTATHE PESCA (Brik)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.50</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="acqua-frizzante">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ACQ S.BENED. FB ECOGREEN NAT (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ACQ S.BENEDETTO FB GAS (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="amaro">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">AVERNA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BRANCA FERNET (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BRANCAMENTA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BRAULIO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CAMPARI BITTER (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CYNAR (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">DEL CAPO VECCHIO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">JAGERMEISTER (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MONTENEGRO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">OTTANTA LIQ.ID (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">UNICUM ZWACK (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="birra-analcolica">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA HEINEKEN 0.0 (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="birra-chiara-alla-spina">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA HEINEKEN (250ml)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA HEINEKEN (50mll)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BIRRA MESSINA CRISTALLI DI SALE (50cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€6.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="brandy">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BRANCA STRAVECCHIO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">VECCHIA ROMAGNA ET NERA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="caffetteria">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè Americano</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè Corretto</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.60</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè Decaffeinato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè Macchiato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.40</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte Scremato</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè Macchiato Vegetale</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.40</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte di Soia</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè shakerato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffè shakerato + Baileys</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€3.50</p>
+                </div>
+                <p class="text-sm text-gray-600">BAILEYS ORIGINAL, caffè</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Caffellatte</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.00</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte Scremato</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Cappuccino con Latte Scremato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.60</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte Scremato</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Cappuccino con Latte Vegetale</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.00</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte di Soia</p>
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Doppio Espresso</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Espresso</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€1.20</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">Latte Macchiato</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.00</p>
+                </div>
+                <p class="text-sm text-gray-600">caffè, Latte Scremato</p>
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="grappa">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CASTAGNER FUORICLASSE MOSCATO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CASTAGNER FUORICLASSE NERA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.50</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CASTAGNER FUORICLASSE PROS MORBIDA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MASCHIO 903 BARRIQUE (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MASCHIO 903 TIPICA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="liquore">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BAILEYS ORIGINAL (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">MOLINARI SAMBUCA EXTRA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">VENTURO APERITIVO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="rum">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BARCELO BLANCO 37,5 GR (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BARCELO' DORADO 3YO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">BARCELO' ORGANIC RUM (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€4.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="spumante-rosé">
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Bottiglie</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">CT Prosecco DOC Brut Rosé (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€22.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="vino-rosato">
+            <div>
+                <h3 class="font-headline text-xl mb-4 text-primary">Bottiglie</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">A MANO IMPRINT SUSUMAN. ROSATO IGT (Bottle)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€19.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="vodka">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">ARTIC BIANCA (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€2.50</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div><div class="tab-content " id="whisky">
+            <div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-4">
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">JACK DANIEL'S (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€5.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">LAPHROAIG 10YO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€10.00</p>
+                </div>
+                
+            </div>
+        
+            <div class="menu-item-container">
+                <div class="flex justify-between items-baseline">
+                    <h4 class="font-semibold">TALISKER 10YO (5cl)</h4>
+                    <div class="flex-grow border-b border-dashed border-gray-400/50 mx-2"></div>
+                    <p class="font-semibold">€9.00</p>
+                </div>
+                
+            </div>
+        </div>
+            </div>
+        </div>
+            </div>
+          </div>
+        </div>
+        <script>
+          const triggers = document.querySelectorAll('.tab-trigger');
+          const contents = document.querySelectorAll('.tab-content');
+          triggers.forEach(trigger => {
+            trigger.addEventListener('click', () => {
+              const targetId = trigger.getAttribute('data-target');
+              
+              triggers.forEach(t => t.classList.remove('active'));
+              trigger.classList.add('active');
+              
+              contents.forEach(content => {
+                if (content.id === targetId) {
+                  content.classList.add('active');
+                } else {
+                  content.classList.remove('active');
+                }
+              });
+            });
+          });
+        </script>
+      </body>
+      </html>
+    
