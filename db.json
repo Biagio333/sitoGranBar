@@ -1,0 +1,2761 @@
+{
+  "inventoryItems": [
+    {
+      "name": "4 VALLI STARLIGHT SPUMANTE BRUT",
+      "category": "Spumante",
+      "quantity": 72,
+      "cost": 2.7,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "A MANO IMPRINT SUSUMAN. ROSATO IGT",
+      "category": "Vino Rosato",
+      "quantity": 6,
+      "cost": 5.6,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "ACQ S.BENED. FB ECOGREEN NAT",
+      "category": "Acqua Frizzante",
+      "quantity": 120,
+      "cost": 0.275,
+      "volumeLiters": 0.5,
+      "unit": "units"
+    },
+    {
+      "name": "ACQ S.BENEDETTO FB GAS",
+      "category": "Acqua Frizzante",
+      "quantity": 96,
+      "cost": 0.275,
+      "volumeLiters": 0.5,
+      "unit": "units"
+    },
+    {
+      "name": "AICHHOLZ PINOT NERO ALTO ADIGE DOC",
+      "category": "Vino Rosso",
+      "quantity": 6,
+      "cost": 9.503333333333334,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "APEROL BARBIERI",
+      "category": "Liquore",
+      "quantity": 12,
+      "cost": 11.808333333333334,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "ARIONE CONTESSA MOSCATO SPUMANTE",
+      "category": "Spumante",
+      "quantity": 6,
+      "cost": 4.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "ARTIC BIANCA",
+      "category": "Vodka",
+      "quantity": 2,
+      "cost": 10.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "ASCENDUM TRENTO DOC BRUT",
+      "category": "Spumante",
+      "quantity": 6,
+      "cost": 14.196666666666667,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "AUDARYA VERMENTINO DI SARDEGNA DOC",
+      "category": "Vino Bianco",
+      "quantity": 6,
+      "cost": 5.9,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "AVERNA",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 16.4,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BAILEYS ORIGINAL",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 18.24,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BALIA DI ZOLA ALBANA SECCO ISOLA",
+      "category": "Vino Bianco",
+      "quantity": 6,
+      "cost": 6.593333333333333,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BALIA ZOLA SANGIOV. BALITORE",
+      "category": "Vino Rosso",
+      "quantity": 6,
+      "cost": 6.593333333333333,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BARCELO BLANCO 37,5 GR",
+      "category": "Rum",
+      "quantity": 1,
+      "cost": 10.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BARCELO' DORADO 3YO",
+      "category": "Rum",
+      "quantity": 1,
+      "cost": 11.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BARCELO' ORGANIC RUM",
+      "category": "Rum",
+      "quantity": 1,
+      "cost": 16.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BELLEI CUVEE BRUT METODO CLASSICO",
+      "category": "Spumante",
+      "quantity": 6,
+      "cost": 11.9,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BIB COCA COLA SLEEK",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.6116666666666667,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIB FANTA ARANCIA. SLEEK",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.6116666666666667,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIB FEVER TREE GINGER BEER",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.95,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "BIB FEVER TREE MEDITERRANEAN TONIC",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.95,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "BIB GALVANINA ARANCIATA BIO",
+      "category": "Bibite",
+      "quantity": 12,
+      "cost": 1.2,
+      "volumeLiters": 0.355,
+      "unit": "units"
+    },
+    {
+      "name": "BIB GALVANINA CEDRATA BIO",
+      "category": "Bibite",
+      "quantity": 12,
+      "cost": 1.2,
+      "volumeLiters": 0.355,
+      "unit": "units"
+    },
+    {
+      "name": "BIB GALVANINA CHINOTTO BIO",
+      "category": "Bibite",
+      "quantity": 12,
+      "cost": 1.2,
+      "volumeLiters": 0.355,
+      "unit": "units"
+    },
+    {
+      "name": "BIB KINLEY BITTER LEMON",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.6120833333333333,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "BIB KINLEY TONIC WATER",
+      "category": "Bibite",
+      "quantity": 48,
+      "cost": 0.6120833333333333,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "BIB LEMONSODA SLEEK",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.55,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIB SEVEN UP SLEEK",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 0.59875,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA BEAVERTOWN GAMMA RAY LATT",
+      "category": "Birra Chiara",
+      "quantity": 12,
+      "cost": 1.89,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA BEAVERTOWN NECK OIL LATT",
+      "category": "Birra Chiara",
+      "quantity": 12,
+      "cost": 1.89,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA BECK'S",
+      "category": "Birra Chiara",
+      "quantity": 24,
+      "cost": 1.1766666666666667,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA CERES STRONG ALE",
+      "category": "Birra Chiara",
+      "quantity": 24,
+      "cost": 1.58,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA CORONA",
+      "category": "Birra Chiara",
+      "quantity": 24,
+      "cost": 1.3091666666666666,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA HEINEKEN",
+      "category": "Birra Chiara alla Spina",
+      "quantity": 3,
+      "cost": 87.8,
+      "volumeLiters": 30,
+      "unit": "fusti"
+    },
+    {
+      "name": "BIRRA HEINEKEN 0.0",
+      "category": "Birra Analcolica",
+      "quantity": 24,
+      "cost": 0.9975,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA ICHNUSA",
+      "category": "Birra Chiara",
+      "quantity": 24,
+      "cost": 0.74,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA ICHNUSA NON FILTRATA",
+      "category": "Birra Chiara",
+      "quantity": 24,
+      "cost": 0.89,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA MESSINA CRISTALLI DI SALE",
+      "category": "Birra Chiara alla Spina",
+      "quantity": 3,
+      "cost": 91.15,
+      "volumeLiters": 20,
+      "unit": "units"
+    },
+    {
+      "name": "BIRRA PAULANER HEFE WEIZEN",
+      "category": "Birra Chiara",
+      "quantity": 20,
+      "cost": 1.3595,
+      "volumeLiters": 0.5,
+      "unit": "units"
+    },
+    {
+      "name": "BOTT. ROSSO CA' GIOVANNINO IGP 2024",
+      "category": "Vino Rosso",
+      "quantity": 6,
+      "cost": 4.4,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BOTTIGLIE BIANCO AGNES IGP",
+      "category": "Vino Bianco",
+      "quantity": 6,
+      "cost": 4.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BOTTIGLIE BIANCO FRIZZANTE SAKIN",
+      "category": "Spumante",
+      "quantity": 6,
+      "cost": 4.4,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BOTTIGLIE ROSSO TORRICELLA IGP 2024",
+      "category": "Vino Rosso",
+      "quantity": 6,
+      "cost": 4.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "BRANCA FERNET",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 23.24,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BRANCA STRAVECCHIO",
+      "category": "Brandy",
+      "quantity": 1,
+      "cost": 16.5,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BRANCAMENTA",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 17.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BRAULIO",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 19.24,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "BUCCIA NERA CAMPRIANO CHIANTI DOCG",
+      "category": "Vino Rosso",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 5,
+      "volumeLiters": 0.75
+    },
+    {
+      "name": "CA RUGATE S. MICHELE SOAVE DOC",
+      "category": "Vino Bianco",
+      "quantity": 12,
+      "cost": 5.25,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "caffè",
+      "category": "Caffetteria",
+      "quantity": 1,
+      "unit": "kg",
+      "cost": 22,
+      "volumeLiters": 1
+    },
+    {
+      "name": "CAMPARI BITTER",
+      "category": "Amaro",
+      "quantity": 6,
+      "cost": 15.318333333333333,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "CAMPARI SODA",
+      "category": "Bibite",
+      "quantity": 100,
+      "cost": 0.9041,
+      "volumeLiters": 0.1,
+      "unit": "units"
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE MOSCATO",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 13.74,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE NERA",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 21.79,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE PROS MORBIDA",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 12.61,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "CAVALLARO VERDICCHIO CLAS SUPERIORE",
+      "category": "Vino Bianco",
+      "quantity": 6,
+      "cost": 6.9,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CERASUOLO D'ABRUZZO BIO PMM",
+      "category": "Vino Rosso",
+      "quantity": 1,
+      "cost": 6.5,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CERBIO BLANC DE BLANCS EXTRA DRY",
+      "category": "Spumante",
+      "quantity": 12,
+      "cost": 2.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "Coca‑Cola",
+      "category": "Bibite",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 0.5,
+      "volumeLiters": 0.33
+    },
+    {
+      "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50 %vol",
+      "category": "Spumante",
+      "quantity": 1,
+      "cost": 14.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50%vol",
+      "category": "Spumante",
+      "quantity": 2,
+      "cost": 14.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CONTADI CURTEFRANCA DOC BIANCOO, 75L SC1X6 2024 CURTEFRANCA DOC BIANCO 11,50 %vol",
+      "category": "Vino Bianco",
+      "quantity": 1,
+      "cost": 7.7,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CONTADI SATEN 0,75L SC1X62021 FRANCIACORTA BRUT SATEN 12,50%vol",
+      "category": "Spumante",
+      "quantity": 2,
+      "cost": 18.5,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CRODINO",
+      "category": "Bibite",
+      "quantity": 48,
+      "cost": 0.55,
+      "volumeLiters": 0.33,
+      "unit": "units"
+    },
+    {
+      "name": "CT Prosecco DOC Brut Rosé",
+      "category": "Spumante Rosé",
+      "quantity": 6,
+      "cost": 6.5,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CT Prosecco DOC Extra Dry Spumante",
+      "category": "Spumante",
+      "quantity": 36,
+      "cost": 5.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "CYNAR",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 17.26,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "DEL CAPO VECCHIO",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 21.9,
+      "volumeLiters": 1.5,
+      "unit": "units"
+    },
+    {
+      "name": "ENERGY DRINK RED BULL RED ED",
+      "category": "Bibite",
+      "quantity": 24,
+      "cost": 1.2445833333333334,
+      "volumeLiters": 0.25,
+      "unit": "units"
+    },
+    {
+      "name": "ETSU JAPAN PREMIUM GIN",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 25.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "FALTERONA 1654 GIN DELL'APPENNINO",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 21.98,
+      "volumeLiters": 0.5,
+      "unit": "units"
+    },
+    {
+      "name": "FOLLADOR RUNIER PROS TV DOC EXTRA DRY",
+      "category": "Spumante",
+      "quantity": 6,
+      "cost": 6.75,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "FT MONTELVINI VERD'ORO VIVO",
+      "category": "Vino Bianco",
+      "quantity": 3,
+      "cost": 43.95,
+      "volumeLiters": 20,
+      "unit": "units"
+    },
+    {
+      "name": "GAL41 LIQ.ID LONDON DRY GIN",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 17.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "GIFFARD SCIROPPO FIORE DI SAMBUCO",
+      "category": "Sciroppo",
+      "quantity": 1,
+      "cost": 13.29,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "JACK DANIEL'S",
+      "category": "Whisky",
+      "quantity": 1,
+      "cost": 22.65,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "JAGERMEISTER",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 21.21,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "KT Gewürztraminer Alto Adige DOC",
+      "category": "Vino Bianco",
+      "quantity": 24,
+      "cost": 11.1,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "KT Lagrein Alto Adige DOC",
+      "category": "Vino Rosso",
+      "quantity": 6,
+      "cost": 9.75,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "KT Sauvignon Alto Adige DOC",
+      "category": "Vino Bianco",
+      "quantity": 6,
+      "cost": 10.8,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "LAPHROAIG 10YO",
+      "category": "Whisky",
+      "quantity": 1,
+      "cost": 43.5,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "Latte di Soia",
+      "category": "Caffetteria",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 2,
+      "volumeLiters": 0.25
+    },
+    {
+      "name": "Latte Scremato",
+      "category": "Caffetteria",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 1,
+      "volumeLiters": 1
+    },
+    {
+      "name": "Lime",
+      "category": "Freschi da guarnizione",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 2,
+      "volumeLiters": 1
+    },
+    {
+      "name": "MALFY GODI GIN CON POMPELMO ROSA",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 21.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "MALFY GODI GIN ORIGINALE",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 21.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "Martini Rosso Vermouth",
+      "category": "Vermouth ",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 8,
+      "volumeLiters": 1
+    },
+    {
+      "name": "MASCHIO 903 BARRIQUE",
+      "category": "Grappa",
+      "quantity": 2,
+      "cost": 14.96,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "MASCHIO 903 TIPICA",
+      "category": "Grappa",
+      "quantity": 1,
+      "cost": 14.96,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "Menta fresca",
+      "category": "Freschi da guarnizione",
+      "quantity": 1,
+      "unit": "kg",
+      "cost": 3,
+      "volumeLiters": 0.1
+    },
+    {
+      "name": "MOLINARI SAMBUCA EXTRA",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 23.79,
+      "volumeLiters": 1.5,
+      "unit": "units"
+    },
+    {
+      "name": "MONTENEGRO",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 28.9,
+      "volumeLiters": 1.5,
+      "unit": "units"
+    },
+    {
+      "name": "MONTEPULCIANO D'ABRUZZO BIO PMM",
+      "category": "Vino Rosso",
+      "quantity": 1,
+      "cost": 6.9,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "Moro della genga verdicchio dei castelli di jesi",
+      "category": "Vino Bianco",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 12,
+      "volumeLiters": 0.75
+    },
+    {
+      "name": "N°3 LONDON DRY GIN",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 26.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "OTTANTA LIQ.ID",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 15.5,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "RIBOLLA GIALLA LVZ",
+      "category": "Vino Bianco",
+      "quantity": 2,
+      "cost": 10.4,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "Rum Bacardi Carta Blanca",
+      "category": "Rum",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 16,
+      "volumeLiters": 1
+    },
+    {
+      "name": "SAN BITTER ROSSO",
+      "category": "Bibite",
+      "quantity": 48,
+      "cost": 0.6220833333333333,
+      "volumeLiters": 0.1,
+      "unit": "units"
+    },
+    {
+      "name": "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol",
+      "category": "Vino Bianco",
+      "quantity": 1,
+      "cost": 7.6,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "SM \"Degagé\" Spumante VS Extra Dry",
+      "category": "Spumante",
+      "quantity": 42,
+      "cost": 4.75,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "Succo di limone fresco",
+      "category": "Freschi da guarnizione",
+      "quantity": 1,
+      "unit": "numero",
+      "cost": 0.25,
+      "volumeLiters": 0.25
+    },
+    {
+      "name": "SYRAH BIO DSS",
+      "category": "Vino Rosso",
+      "quantity": 1,
+      "cost": 7.1,
+      "volumeLiters": 0.75,
+      "unit": "units"
+    },
+    {
+      "name": "TALISKER 10YO",
+      "category": "Whisky",
+      "quantity": 1,
+      "cost": 38.19,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "TANQUERAY LONDON DRY",
+      "category": "Gin",
+      "quantity": 2,
+      "cost": 17.9,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "TANQUERAY TEN",
+      "category": "Gin",
+      "quantity": 1,
+      "cost": 22.5,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "THE ESTATHE LIMONE",
+      "category": "Bibite",
+      "quantity": 84,
+      "cost": 0.4322222222222222,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "THE ESTATHE PESCA",
+      "category": "Bibite",
+      "quantity": 84,
+      "cost": 0.4322222222222222,
+      "volumeLiters": 0.2,
+      "unit": "units"
+    },
+    {
+      "name": "UNICUM ZWACK",
+      "category": "Amaro",
+      "quantity": 1,
+      "cost": 15.5,
+      "volumeLiters": 1,
+      "unit": "units"
+    },
+    {
+      "name": "VECCHIA ROMAGNA ET NERA",
+      "category": "Grappa",
+      "quantity": 1,
+      "cost": 30.11,
+      "volumeLiters": 1.5,
+      "unit": "units"
+    },
+    {
+      "name": "VENTURO APERITIVO",
+      "category": "Liquore",
+      "quantity": 1,
+      "cost": 15.9,
+      "volumeLiters": 0.7,
+      "unit": "units"
+    },
+    {
+      "name": "Zucchero di canna",
+      "category": "Freschi da guarnizione",
+      "quantity": 1,
+      "unit": "bottle",
+      "cost": 1,
+      "volumeLiters": 5
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "FIUME WINE SAS",
+      "contact": "N/A",
+      "products": [
+        "MONTEPULCIANO D'ABRUZZO BIO PMM",
+        "CERASUOLO D'ABRUZZO BIO PMM",
+        "SYRAH BIO DSS",
+        "RIBOLLA GIALLA LVZ"
+      ]
+    },
+    {
+      "name": "FLENGHI NICOLA",
+      "contact": "N/A",
+      "products": [
+        "BOTTIGLIE ROSSO TORRICELLA IGP 2024",
+        "BOTT. ROSSO CA' GIOVANNINO IGP 2024",
+        "BOTTIGLIE BIANCO FRIZZANTE SAKIN",
+        "BOTTIGLIE BIANCO AGNES IGP"
+      ]
+    },
+    {
+      "name": "HERITA S.P.A.",
+      "contact": "N/A",
+      "products": [
+        "CT Prosecco DOC Extra Dry Spumante",
+        "CT Prosecco DOC Brut Rosé",
+        "SM \"Degagé\" Spumante VS Extra Dry",
+        "KT Lagrein Alto Adige DOC",
+        "KT Gewürztraminer Alto Adige DOC",
+        "KT Sauvignon Alto Adige DOC"
+      ]
+    },
+    {
+      "name": "Partesa Srl",
+      "contact": "N/A",
+      "products": [
+        "BIRRA MESSINA CRISTALLI DI SALE",
+        "4 VALLI STARLIGHT SPUMANTE BRUT",
+        "A MANO IMPRINT SUSUMAN. ROSATO IGT",
+        "ACQ S.BENED. FB ECOGREEN NAT",
+        "ACQ S.BENEDETTO FB GAS",
+        "BRANCAMENTA",
+        "AVERNA",
+        "BRAULIO",
+        "CYNAR",
+        "BRANCA FERNET",
+        "JAGERMEISTER",
+        "MONTENEGRO",
+        "OTTANTA LIQ.ID",
+        "UNICUM ZWACK",
+        "DEL CAPO VECCHIO",
+        "AICHHOLZ PINOT NERO ALTO ADIGE DOC",
+        "VENTURO APERITIVO",
+        "BIB GALVANINA ARANCIATA BIO",
+        "APEROL BARBIERI",
+        "ARIONE CONTESSA MOSCATO SPUMANTE",
+        "ASCENDUM TRENTO DOC BRUT",
+        "AUDARYA VERMENTINO DI SARDEGNA DOC",
+        "BAILEYS ORIGINAL",
+        "BALIA DI ZOLA ALBANA SECCO ISOLA",
+        "BALIA ZOLA SANGIOV. BALITORE",
+        "BIRRA BEAVERTOWN GAMMA RAY LATT",
+        "BIRRA BEAVERTOWN NECK OIL LATT",
+        "BELLEI CUVEE BRUT METODO CLASSICO",
+        "BIRRA HEINEKEN",
+        "CAMPARI SODA",
+        "CAMPARI BITTER",
+        "FT MONTELVINI VERD'ORO VIVO",
+        "VECCHIA ROMAGNA ET NERA",
+        "MOLINARI SAMBUCA EXTRA",
+        "GIFFARD SCIROPPO FIORE DI SAMBUCO",
+        "BRANCA STRAVECCHIO",
+        "CA RUGATE S. MICHELE SOAVE DOC",
+        "CAVALLARO VERDICCHIO CLAS SUPERIORE",
+        "CERBIO BLANC DE BLANCS EXTRA DRY",
+        "BIB FEVER TREE MEDITERRANEAN TONIC",
+        "BIB FEVER TREE GINGER BEER",
+        "BIRRA CERES STRONG ALE",
+        "BIRRA ICHNUSA",
+        "BIRRA ICHNUSA NON FILTRATA",
+        "BIRRA BECK'S",
+        "BIRRA CORONA",
+        "BIRRA HEINEKEN",
+        "BIRRA HEINEKEN 0.0",
+        "BIB LEMONSODA SLEEK",
+        "MASCHIO 903 BARRIQUE",
+        "MASCHIO 903 TIPICA",
+        "CASTAGNER FUORICLASSE MOSCATO",
+        "CASTAGNER FUORICLASSE NERA",
+        "CASTAGNER FUORICLASSE PROS MORBIDA",
+        "ETSU JAPAN PREMIUM GIN",
+        "GAL41 LIQ.ID LONDON DRY GIN",
+        "N°3 LONDON DRY GIN",
+        "MALFY GODI GIN CON POMPELMO ROSA",
+        "MALFY GODI GIN ORIGINALE",
+        "TANQUERAY LONDON DRY",
+        "TANQUERAY TEN",
+        "FALTERONA 1654 GIN DELL'APPENNINO",
+        "ARTIC BIANCA",
+        "CRODINO",
+        "SAN BITTER ROSSO",
+        "ENERGY DRINK RED BULL RED ED",
+        "BIB KINLEY TONIC WATER",
+        "BIB KINLEY BITTER LEMON",
+        "THE ESTATHE LIMONE",
+        "THE ESTATHE PESCA",
+        "BIB COCA COLA SLEEK",
+        "BIB FANTA ARANCIA. SLEEK",
+        "BIB SEVEN UP SLEEK",
+        "THE ESTATHE PESCA",
+        "THE ESTATHE LIMONE",
+        "BARCELO BLANCO 37,5 GR",
+        "BARCELO' DORADO 3YO",
+        "BARCELO' ORGANIC RUM",
+        "JACK DANIEL'S",
+        "TALISKER 10YO",
+        "LAPHROAIG 10YO",
+        "FOLLADOR RUNIER PROS TV DOC EXTRA DRY",
+        "BIRRA PAULANER HEFE WEIZEN",
+        "BIB GALVANINA CEDRATA BIO",
+        "BIB GALVANINA CHINOTTO BIO"
+      ]
+    },
+    {
+      "name": "TERRA MORETTI DISTRIBUZIONE",
+      "contact": "N/A",
+      "products": [
+        "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50%vol",
+        "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50 %vol",
+        "CONTADI SATEN 0,75L SC1X62021 FRANCIACORTA BRUT SATEN 12,50%vol",
+        "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol",
+        "CONTADI CURTEFRANCA DOC BIANCOO, 75L SC1X6 2024 CURTEFRANCA DOC BIANCO 11,50 %vol"
+      ]
+    }
+  ],
+  "drinks": [
+    {
+      "name": " ROSSO CA' GIOVANNINO IGP 2024 (20cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BOTT. ROSSO CA' GIOVANNINO IGP 2024",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "4 VALLI STARLIGHT SPUMANTE BRUT (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "4 VALLI STARLIGHT SPUMANTE BRUT",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "A MANO IMPRINT SUSUMAN. ROSATO IGT (Bottle)",
+      "category": "Vino Rosato",
+      "ingredients": [
+        {
+          "name": "A MANO IMPRINT SUSUMAN. ROSATO IGT",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "ACQ S.BENED. FB ECOGREEN NAT (Bottle)",
+      "category": "Acqua Frizzante",
+      "ingredients": [
+        {
+          "name": "ACQ S.BENED. FB ECOGREEN NAT",
+          "quantityCl": 50
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "ACQ S.BENEDETTO FB GAS (Bottle)",
+      "category": "Acqua Frizzante",
+      "ingredients": [
+        {
+          "name": "ACQ S.BENEDETTO FB GAS",
+          "quantityCl": 50
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "AICHHOLZ PINOT NERO ALTO ADIGE DOC (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "AICHHOLZ PINOT NERO ALTO ADIGE DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "ARIONE CONTESSA MOSCATO SPUMANTE (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "ARIONE CONTESSA MOSCATO SPUMANTE",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "ARIONE CONTESSA MOSCATO SPUMANTE (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "ARIONE CONTESSA MOSCATO SPUMANTE",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.4
+    },
+    {
+      "name": "ARTIC BIANCA (5cl)",
+      "category": "Vodka",
+      "ingredients": [
+        {
+          "name": "ARTIC BIANCA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "ASCENDUM TRENTO DOC BRUT (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "ASCENDUM TRENTO DOC BRUT",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "AUDARYA VERMENTINO DI SARDEGNA DOC (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "AUDARYA VERMENTINO DI SARDEGNA DOC",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "AUDARYA VERMENTINO DI SARDEGNA DOC (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "AUDARYA VERMENTINO DI SARDEGNA DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "AVERNA (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "AVERNA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "BAILEYS ORIGINAL (5cl)",
+      "category": "Liquore",
+      "ingredients": [
+        {
+          "name": "BAILEYS ORIGINAL",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BALIA DI ZOLA ALBANA SECCO ISOLA (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "BALIA DI ZOLA ALBANA SECCO ISOLA",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "BALIA DI ZOLA ALBANA SECCO ISOLA (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "BALIA DI ZOLA ALBANA SECCO ISOLA",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "BALIA ZOLA SANGIOV. BALITORE (15cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BALIA ZOLA SANGIOV. BALITORE",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "BALIA ZOLA SANGIOV. BALITORE (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BALIA ZOLA SANGIOV. BALITORE",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "BARCELO BLANCO 37,5 GR (5cl)",
+      "category": "Rum",
+      "ingredients": [
+        {
+          "name": "BARCELO BLANCO 37,5 GR",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 7
+    },
+    {
+      "name": "BARCELO' DORADO 3YO (5cl)",
+      "category": "Rum",
+      "ingredients": [
+        {
+          "name": "BARCELO' DORADO 3YO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "BARCELO' ORGANIC RUM (5cl)",
+      "category": "Rum",
+      "ingredients": [
+        {
+          "name": "BARCELO' ORGANIC RUM",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "BELLEI CUVEE BRUT METODO CLASSICO (Bottiglia)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "BELLEI CUVEE BRUT METODO CLASSICO",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.2
+    },
+    {
+      "name": "BIANCO AGNES IGP (20cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE BIANCO AGNES IGP",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BIANCO AGNES IGP (Bottiglia)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE BIANCO AGNES IGP",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BIANCO FRIZZANTE SAKIN (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE BIANCO FRIZZANTE SAKIN",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "BIRRA BEAVERTOWN GAMMA RAY LATT (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA BEAVERTOWN GAMMA RAY LATT",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BIRRA BEAVERTOWN NECK OIL LATT (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA BEAVERTOWN NECK OIL LATT",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BIRRA BECK'S (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA BECK'S",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "BIRRA CERES STRONG ALE (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA CERES STRONG ALE",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 2.8
+    },
+    {
+      "name": "BIRRA CORONA (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA CORONA",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BIRRA HEINEKEN (250ml)",
+      "category": "Birra Chiara alla Spina",
+      "ingredients": [
+        {
+          "name": "BIRRA HEINEKEN",
+          "quantityCl": 25
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "BIRRA HEINEKEN (50mll)",
+      "category": "Birra Chiara alla Spina",
+      "ingredients": [
+        {
+          "name": "BIRRA HEINEKEN",
+          "quantityCl": 50
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "BIRRA HEINEKEN (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA HEINEKEN",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BIRRA HEINEKEN 0.0 (Bottle)",
+      "category": "Birra Analcolica",
+      "ingredients": [
+        {
+          "name": "BIRRA HEINEKEN 0.0",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BIRRA ICHNUSA (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA ICHNUSA",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "BIRRA ICHNUSA NON FILTRATA (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA ICHNUSA NON FILTRATA",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BIRRA MESSINA CRISTALLI DI SALE (50cl)",
+      "category": "Birra Chiara alla Spina",
+      "ingredients": [
+        {
+          "name": "BIRRA MESSINA CRISTALLI DI SALE",
+          "quantityCl": 40
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "BIRRA PAULANER HEFE WEIZEN (Bottle)",
+      "category": "Birra Chiara",
+      "ingredients": [
+        {
+          "name": "BIRRA PAULANER HEFE WEIZEN",
+          "quantityCl": 50
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "BOTT. ROSSO CA' GIOVANNINO IGP 2024 (Bottiglia)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BOTT. ROSSO CA' GIOVANNINO IGP 2024",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "BRANCA FERNET (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "BRANCA FERNET",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "BRANCA STRAVECCHIO (5cl)",
+      "category": "Brandy",
+      "ingredients": [
+        {
+          "name": "BRANCA STRAVECCHIO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "BRANCAMENTA (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "BRANCAMENTA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BRAULIO (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "BRAULIO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "BUCCIA NERA CAMPRIANO CHIANTI DOCG (Bottiglia)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BUCCIA NERA CAMPRIANO CHIANTI DOCG",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "BUCCIA NERA CAMPRIANO CHIANTI DOCG (Calice)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BUCCIA NERA CAMPRIANO CHIANTI DOCG",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 3.6
+    },
+    {
+      "name": "CA RUGATE S. MICHELE SOAVE DOC (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "CA RUGATE S. MICHELE SOAVE DOC",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CA RUGATE S. MICHELE SOAVE DOC (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "CA RUGATE S. MICHELE SOAVE DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "Caffè Americano",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 8.5
+    },
+    {
+      "name": "Caffè Corretto",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 9
+    },
+    {
+      "name": "Caffè Decaffeinato",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 8
+    },
+    {
+      "name": "Caffè Macchiato",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte Scremato",
+          "quantityCl": 0.04
+        }
+      ],
+      "multiplier": 7.5
+    },
+    {
+      "name": "Caffè Macchiato Vegetale",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte di Soia",
+          "quantityCl": 0.25
+        }
+      ],
+      "multiplier": 7
+    },
+    {
+      "name": "Caffè shakerato",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 14
+    },
+    {
+      "name": "Caffè shakerato + Baileys",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "BAILEYS ORIGINAL",
+          "quantityCl": 3
+        },
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 4.8
+    },
+    {
+      "name": "Caffellatte",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte Scremato",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "CAMPARI BITTER (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "CAMPARI BITTER",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4.8
+    },
+    {
+      "name": "CAMPARI SODA ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "CAMPARI SODA",
+          "quantityCl": 10
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "Cappuccino con Latte Scremato",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte Scremato",
+          "quantityCl": 6
+        }
+      ],
+      "multiplier": 6.5
+    },
+    {
+      "name": "Cappuccino con Latte Vegetale",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte di Soia",
+          "quantityCl": 10
+        }
+      ],
+      "multiplier": 2
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE MOSCATO (5cl)",
+      "category": "Grappa",
+      "ingredients": [
+        {
+          "name": "CASTAGNER FUORICLASSE MOSCATO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE NERA (5cl)",
+      "category": "Grappa",
+      "ingredients": [
+        {
+          "name": "CASTAGNER FUORICLASSE NERA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "CASTAGNER FUORICLASSE PROS MORBIDA (5cl)",
+      "category": "Grappa",
+      "ingredients": [
+        {
+          "name": "CASTAGNER FUORICLASSE PROS MORBIDA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "CAVALLARO VERDICCHIO CLAS SUPERIORE (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "CAVALLARO VERDICCHIO CLAS SUPERIORE",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CAVALLARO VERDICCHIO CLAS SUPERIORE (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "CAVALLARO VERDICCHIO CLAS SUPERIORE",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "CERASUOLO D'ABRUZZO BIO PMM (15cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "CERASUOLO D'ABRUZZO BIO PMM",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CERASUOLO D'ABRUZZO BIO PMM (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "CERASUOLO D'ABRUZZO BIO PMM",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "CERBIO BLANC DE BLANCS EXTRA DRY (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CERBIO BLANC DE BLANCS EXTRA DRY",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "COCA COLA SLEEK",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB COCA COLA SLEEK",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4.2
+    },
+    {
+      "name": "Coca‑Cola",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "Coca‑Cola",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50 %vol (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50 %vol",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.2
+    },
+    {
+      "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50%vol (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CONTADI BRUT 0,75L SC1X6 FRANCIACORTA BRUT 12,50%vol",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2
+    },
+    {
+      "name": "CONTADI CURTEFRANCA DOC BIANCOO, 75L SC1X6 2024 CURTEFRANCA DOC BIANCO 11,50 %vol (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "CONTADI CURTEFRANCA DOC BIANCOO, 75L SC1X6 2024 CURTEFRANCA DOC BIANCO 11,50 %vol",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "CONTADI SATEN 0,75L SC1X62021 FRANCIACORTA BRUT SATEN 12,50%vol (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CONTADI SATEN 0,75L SC1X62021 FRANCIACORTA BRUT SATEN 12,50%vol",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2
+    },
+    {
+      "name": "CRODINO",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "CRODINO",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "CT Prosecco DOC Brut Rosé (Bottle)",
+      "category": "Spumante Rosé",
+      "ingredients": [
+        {
+          "name": "CT Prosecco DOC Brut Rosé",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "CT Prosecco DOC Extra Dry Spumante (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CT Prosecco DOC Extra Dry Spumante",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CT Prosecco DOC Extra Dry Spumante (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "CT Prosecco DOC Extra Dry Spumante",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "CYNAR (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "CYNAR",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "DEL CAPO VECCHIO (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "DEL CAPO VECCHIO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "Doppio Espresso",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 1.6
+        }
+      ],
+      "multiplier": 5.5
+    },
+    {
+      "name": "ENERGY DRINK RED BULL RED ED",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "ENERGY DRINK RED BULL RED ED",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "Espresso",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 6.5
+    },
+    {
+      "name": "FANTA ARANCIA. SLEEK",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB FANTA ARANCIA. SLEEK",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 4.2
+    },
+    {
+      "name": "FEVER TREE GINGER BEER",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB FEVER TREE GINGER BEER",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "FEVER TREE GINGER BEER ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB FEVER TREE GINGER BEER",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "FEVER TREE MEDITERRANEAN TONIC ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB FEVER TREE MEDITERRANEAN TONIC",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "FOLLADOR RUNIER PROS TV DOC EXTRA DRY (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "FOLLADOR RUNIER PROS TV DOC EXTRA DRY",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "FOLLADOR RUNIER PROS TV DOC EXTRA DRY (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "FOLLADOR RUNIER PROS TV DOC EXTRA DRY",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "FRIZZANTE SAKIN (20cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE BIANCO FRIZZANTE SAKIN",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "FT MONTELVINI VERD'ORO VIVO (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "FT MONTELVINI VERD'ORO VIVO",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "GALVANINA ARANCIATA BIO",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB GALVANINA ARANCIATA BIO",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "GALVANINA CEDRATA BIO",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB GALVANINA CEDRATA BIO",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "GALVANINA CHINOTTO BIO",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB GALVANINA CHINOTTO BIO",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "GALVANINA CHINOTTO BIO ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB GALVANINA CHINOTTO BIO",
+          "quantityCl": 35.5
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "Gin Lemon",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "TANQUERAY LONDON DRY",
+          "quantityCl": 5
+        },
+        {
+          "name": "BIB LEMONSODA SLEEK",
+          "quantityCl": 10
+        }
+      ],
+      "multiplier": 5.5
+    },
+    {
+      "name": "Gin Tonic - Premium",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "N°3 LONDON DRY GIN",
+          "quantityCl": 5
+        },
+        {
+          "name": "BIB KINLEY TONIC WATER",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "Gin Tonic - Standard",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "TANQUERAY LONDON DRY",
+          "quantityCl": 5
+        },
+        {
+          "name": "BIB KINLEY TONIC WATER",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "Hugo Spritz ",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "Menta fresca",
+          "quantityCl": 0.5
+        },
+        {
+          "name": "GIFFARD SCIROPPO FIORE DI SAMBUCO",
+          "quantityCl": 3
+        },
+        {
+          "name": "CT Prosecco DOC Brut Rosé",
+          "quantityCl": 6
+        },
+        {
+          "name": "ACQ S.BENEDETTO FB GAS",
+          "quantityCl": 2
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "JACK DANIEL'S (5cl)",
+      "category": "Whisky",
+      "ingredients": [
+        {
+          "name": "JACK DANIEL'S",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "JAGERMEISTER (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "JAGERMEISTER",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.6
+    },
+    {
+      "name": "KINLEY BITTER LEMON ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB KINLEY BITTER LEMON",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "KINLEY TONIC WATER",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB KINLEY TONIC WATER",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "KINLEY TONIC WATER (Copy)",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB KINLEY TONIC WATER",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "KT Gewürztraminer Alto Adige DOC (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "KT Gewürztraminer Alto Adige DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.2
+    },
+    {
+      "name": "KT Lagrein Alto Adige DOC (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "KT Lagrein Alto Adige DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "KT Sauvignon Alto Adige DOC (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "KT Sauvignon Alto Adige DOC",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "LAPHROAIG 10YO (5cl)",
+      "category": "Whisky",
+      "ingredients": [
+        {
+          "name": "LAPHROAIG 10YO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.1
+    },
+    {
+      "name": "Latte Macchiato",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        },
+        {
+          "name": "Latte Scremato",
+          "quantityCl": 2.5
+        }
+      ],
+      "multiplier": 9.5
+    },
+    {
+      "name": "LEMONSODA SLEEK ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB LEMONSODA SLEEK",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "MASCHIO 903 BARRIQUE (5cl)",
+      "category": "Grappa",
+      "ingredients": [
+        {
+          "name": "MASCHIO 903 BARRIQUE",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "MASCHIO 903 TIPICA (5cl)",
+      "category": "Grappa",
+      "ingredients": [
+        {
+          "name": "MASCHIO 903 TIPICA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "Mojito ",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "BARCELO BLANCO 37,5 GR",
+          "quantityCl": 6
+        },
+        {
+          "name": "Lime",
+          "quantityCl": 3
+        },
+        {
+          "name": "Zucchero di canna",
+          "quantityCl": 2
+        },
+        {
+          "name": "Menta fresca",
+          "quantityCl": 2
+        },
+        {
+          "name": "ACQ S.BENED. FB ECOGREEN NAT",
+          "quantityCl": 7
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "MOLINARI SAMBUCA EXTRA (5cl)",
+      "category": "Liquore",
+      "ingredients": [
+        {
+          "name": "MOLINARI SAMBUCA EXTRA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "MONTENEGRO (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "MONTENEGRO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 4
+    },
+    {
+      "name": "MONTEPULCIANO D'ABRUZZO BIO PMM (15cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "MONTEPULCIANO D'ABRUZZO BIO PMM",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "MONTEPULCIANO D'ABRUZZO BIO PMM (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "MONTEPULCIANO D'ABRUZZO BIO PMM",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "Moro della genga verdicchio dei castelli di jesi (Bottiglia)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "Moro della genga verdicchio dei castelli di jesi",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "Moscow Mule",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "ARTIC BIANCA",
+          "quantityCl": 4.5
+        },
+        {
+          "name": "Succo di limone fresco",
+          "quantityCl": 1.5
+        },
+        {
+          "name": "BIB FEVER TREE GINGER BEER",
+          "quantityCl": 9
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "Negroni",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "TANQUERAY LONDON DRY",
+          "quantityCl": 3
+        },
+        {
+          "name": "CAMPARI BITTER",
+          "quantityCl": 3
+        },
+        {
+          "name": "Martini Rosso Vermouth",
+          "quantityCl": 3.22
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "OTTANTA LIQ.ID (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "OTTANTA LIQ.ID",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.6
+    },
+    {
+      "name": "RIBOLLA GIALLA LVZ (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "RIBOLLA GIALLA LVZ",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "ROSSO TORRICELLA IGP 2024 (200cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE ROSSO TORRICELLA IGP 2024",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "ROSSO TORRICELLA IGP 2024 (Bottiglia)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "BOTTIGLIE ROSSO TORRICELLA IGP 2024",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "Rum e Coca-Cola Dorado",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "BARCELO' DORADO 3YO",
+          "quantityCl": 5
+        },
+        {
+          "name": "Coca‑Cola",
+          "quantityCl": 25
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "Rum e Coca-Cola Organic ",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "BARCELO' ORGANIC RUM",
+          "quantityCl": 5
+        },
+        {
+          "name": "Coca‑Cola",
+          "quantityCl": 25
+        }
+      ],
+      "multiplier": 4.5
+    },
+    {
+      "name": "Rum e Cola Blanco",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "BARCELO BLANCO 37,5 GR",
+          "quantityCl": 5
+        },
+        {
+          "name": "Coca‑Cola",
+          "quantityCl": 15
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "SAN BITTER ROSSO",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "SAN BITTER ROSSO",
+          "quantityCl": 10
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "Sbagliato",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "4 VALLI STARLIGHT SPUMANTE BRUT",
+          "quantityCl": 3
+        },
+        {
+          "name": "CAMPARI BITTER",
+          "quantityCl": 3
+        },
+        {
+          "name": "Martini Rosso Vermouth",
+          "quantityCl": 3.22
+        }
+      ],
+      "multiplier": 6
+    },
+    {
+      "name": "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol (15cl)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 2.8
+    },
+    {
+      "name": "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol (Bottle)",
+      "category": "Vino Bianco",
+      "ingredients": [
+        {
+          "name": "SELLA&MOSCA CALA REALE 0,75 LSC1X6 2024 G24 DOC VERMENTINO DI SARDEGNA 2024 13,50%vol",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "SEVEN UP SLEEK ",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "BIB SEVEN UP SLEEK",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "SM \"Degagé\" Spumante VS Extra Dry (15cl)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "SM \"Degagé\" Spumante VS Extra Dry",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "SM \"Degagé\" Spumante VS Extra Dry (Bottle)",
+      "category": "Spumante",
+      "ingredients": [
+        {
+          "name": "SM \"Degagé\" Spumante VS Extra Dry",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 3.4
+    },
+    {
+      "name": "Spritz",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "SM \"Degagé\" Spumante VS Extra Dry",
+          "quantityCl": 9
+        },
+        {
+          "name": "APEROL BARBIERI",
+          "quantityCl": 6
+        },
+        {
+          "name": "ACQ S.BENEDETTO FB GAS",
+          "quantityCl": 30
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "Spritz Campari",
+      "category": "Cocktail",
+      "ingredients": [
+        {
+          "name": "SM \"Degagé\" Spumante VS Extra Dry",
+          "quantityCl": 9
+        },
+        {
+          "name": "CAMPARI BITTER",
+          "quantityCl": 6
+        },
+        {
+          "name": "ACQ S.BENEDETTO FB GAS",
+          "quantityCl": 30
+        }
+      ],
+      "multiplier": 3.5
+    },
+    {
+      "name": "SYRAH BIO DSS (15cl)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "SYRAH BIO DSS",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3
+    },
+    {
+      "name": "SYRAH BIO DSS (Bottle)",
+      "category": "Vino Rosso",
+      "ingredients": [
+        {
+          "name": "SYRAH BIO DSS",
+          "quantityCl": 75
+        }
+      ],
+      "multiplier": 2.5
+    },
+    {
+      "name": "TALISKER 10YO (5cl)",
+      "category": "Whisky",
+      "ingredients": [
+        {
+          "name": "TALISKER 10YO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.22
+    },
+    {
+      "name": "THE ESTATHE LIMONE",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "THE ESTATHE LIMONE",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.7
+    },
+    {
+      "name": "THE ESTATHE LIMONE (Brik)",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "THE ESTATHE LIMONE",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "THE ESTATHE PESCA",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "THE ESTATHE PESCA",
+          "quantityCl": 33
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "THE ESTATHE PESCA (Brik)",
+      "category": "Bibite",
+      "ingredients": [
+        {
+          "name": "THE ESTATHE PESCA",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.2
+    },
+    {
+      "name": "UNICUM ZWACK (5cl)",
+      "category": "Amaro",
+      "ingredients": [
+        {
+          "name": "UNICUM ZWACK",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 5
+    },
+    {
+      "name": "VECCHIA ROMAGNA ET NERA (5cl)",
+      "category": "Brandy",
+      "ingredients": [
+        {
+          "name": "VECCHIA ROMAGNA ET NERA",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.8
+    },
+    {
+      "name": "VENTURO APERITIVO (5cl)",
+      "category": "Liquore",
+      "ingredients": [
+        {
+          "name": "VENTURO APERITIVO",
+          "quantityCl": 5
+        }
+      ],
+      "multiplier": 3.22
+    }
+  ]
+}
