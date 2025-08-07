@@ -1373,7 +1373,7 @@
       "multiplier": 3
     },
     {
-      "name": "BIRRA HEINEKEN (250ml)",
+      "name": "BIRRA HEINEKEN (25cl)",
       "category": "Birra Chiara alla Spina",
       "ingredients": [
         {
@@ -1384,7 +1384,7 @@
       "multiplier": 3.5
     },
     {
-      "name": "BIRRA HEINEKEN (50mll)",
+      "name": "BIRRA HEINEKEN (50cl)",
       "category": "Birra Chiara alla Spina",
       "ingredients": [
         {
@@ -1439,7 +1439,7 @@
       "multiplier": 4
     },
     {
-      "name": "BIRRA MESSINA CRISTALLI DI SALE (50cl)",
+      "name": "BIRRA MESSINA CRISTALLI DI SALE (40cl)",
       "category": "Birra Chiara alla Spina",
       "ingredients": [
         {
@@ -1582,47 +1582,6 @@
       "multiplier": 9
     },
     {
-      "name": "Caffè Decaffeinato",
-      "category": "Caffetteria",
-      "ingredients": [
-        {
-          "name": "caffè",
-          "quantityCl": 0.8
-        }
-      ],
-      "multiplier": 8
-    },
-    {
-      "name": "Caffè Macchiato",
-      "category": "Caffetteria",
-      "ingredients": [
-        {
-          "name": "caffè",
-          "quantityCl": 0.8
-        },
-        {
-          "name": "Latte Scremato",
-          "quantityCl": 0.04
-        }
-      ],
-      "multiplier": 7.5
-    },
-    {
-      "name": "Caffè Macchiato Vegetale",
-      "category": "Caffetteria",
-      "ingredients": [
-        {
-          "name": "caffè",
-          "quantityCl": 0.8
-        },
-        {
-          "name": "Latte di Soia",
-          "quantityCl": 0.25
-        }
-      ],
-      "multiplier": 7
-    },
-    {
       "name": "Caffè shakerato",
       "category": "Caffetteria",
       "ingredients": [
@@ -1649,21 +1608,6 @@
       "multiplier": 4.8
     },
     {
-      "name": "Caffellatte",
-      "category": "Caffetteria",
-      "ingredients": [
-        {
-          "name": "caffè",
-          "quantityCl": 0.8
-        },
-        {
-          "name": "Latte Scremato",
-          "quantityCl": 15
-        }
-      ],
-      "multiplier": 6
-    },
-    {
       "name": "CAMPARI BITTER (5cl)",
       "category": "Amaro",
       "ingredients": [
@@ -1686,7 +1630,7 @@
       "multiplier": 3.22
     },
     {
-      "name": "Cappuccino con Latte Scremato",
+      "name": "Cappuccino",
       "category": "Caffetteria",
       "ingredients": [
         {
@@ -1713,7 +1657,7 @@
           "quantityCl": 10
         }
       ],
-      "multiplier": 2
+      "multiplier": 1.7
     },
     {
       "name": "CASTAGNER FUORICLASSE MOSCATO (5cl)",
@@ -1936,17 +1880,6 @@
       "multiplier": 5
     },
     {
-      "name": "Doppio Espresso",
-      "category": "Caffetteria",
-      "ingredients": [
-        {
-          "name": "caffè",
-          "quantityCl": 1.6
-        }
-      ],
-      "multiplier": 5.5
-    },
-    {
       "name": "ENERGY DRINK RED BULL RED ED",
       "category": "Bibite",
       "ingredients": [
@@ -1958,7 +1891,7 @@
       "multiplier": 3
     },
     {
-      "name": "Espresso",
+      "name": "Espresso, Decafeinato, Macchiato.",
       "category": "Caffetteria",
       "ingredients": [
         {
@@ -1966,7 +1899,7 @@
           "quantityCl": 0.8
         }
       ],
-      "multiplier": 6.5
+      "multiplier": 7
     },
     {
       "name": "FANTA ARANCIA. SLEEK",
@@ -2191,6 +2124,28 @@
       "multiplier": 3.6
     },
     {
+      "name": "jinseng grande",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 8
+    },
+    {
+      "name": "jinseng piccolo",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 10
+    },
+    {
       "name": "KINLEY BITTER LEMON ",
       "category": "Bibite",
       "ingredients": [
@@ -2277,10 +2232,10 @@
         },
         {
           "name": "Latte Scremato",
-          "quantityCl": 2.5
+          "quantityCl": 15
         }
       ],
-      "multiplier": 9.5
+      "multiplier": 5
     },
     {
       "name": "LEMONSODA SLEEK ",
@@ -2434,6 +2389,17 @@
         }
       ],
       "multiplier": 3.8
+    },
+    {
+      "name": "Orzo (grande e piccolo)",
+      "category": "Caffetteria",
+      "ingredients": [
+        {
+          "name": "caffè",
+          "quantityCl": 0.8
+        }
+      ],
+      "multiplier": 7.5
     },
     {
       "name": "OTTANTA LIQ.ID (5cl)",
@@ -2756,6 +2722,17 @@
         }
       ],
       "multiplier": 3.22
+    },
+    {
+      "name": "BIRRA MESSINA CRISTALLI DI SALE (20cl) (Copy)",
+      "category": "Birra Chiara alla Spina",
+      "ingredients": [
+        {
+          "name": "BIRRA MESSINA CRISTALLI DI SALE",
+          "quantityCl": 20
+        }
+      ],
+      "multiplier": 3.5
     }
   ]
 }
